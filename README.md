@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firecarr0t
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning to code
 
 <!---
 Firecarr0t/Firecarr0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
