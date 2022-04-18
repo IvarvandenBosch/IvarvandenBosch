@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Firecarr0t
-- 👀 I’m interested in hacking
+- 👀 I’m interested in web-dev
 - 🌱 I’m currently learning coding
 
 <!---
