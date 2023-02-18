@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **Via discord: oCarrott#8898**
 
-- ⚡ Fun fact **carrots used to be purple**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
