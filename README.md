@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BetterSubtitles](https://bettersubtitles.com)
 
-- 🌱 I’m currently learning **Js and React**
+- 🌱 I’m currently learning **solidJs**
 
 - 🤝 I’m looking for help with **any frontend project**
 
