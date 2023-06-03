@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivar van den Bosch</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [BetterSubtitles](https://bettersubtitles.com)
+- 🔭 I’m currently working on [City Master](https://github.com/ivarvandenBosch/city-master)
 
 - 🌱 I’m currently learning **solidJs**
 
