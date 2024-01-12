@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivar van den Bosch</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on Lution.
+- 🔭 I’m currently working on Lution & Bijlesje.
 
 - 🌱 I’m currently learning **React Native**
 
