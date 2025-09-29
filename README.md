@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ivar van den Bosch</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on Pollimate.
+- 🔭 I’m currently working on a new portfolio.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GSAP**
 
 - 🤝 I’m looking for help with **any frontend project**
 
-- 💬 Ask me about **CSS**
 
 - 📫 How to reach me **Via discord: oCarrott#8898**
 
