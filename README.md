@@ -8,9 +8,8 @@
 - 🤝 I’m looking for help with **any frontend project**
 
 
-- 📫 How to reach me **Via discord: oCarrott#8898**
+- 📫 How to reach me **Via the form on [my website](https://ivarvandenbosch.nl)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
